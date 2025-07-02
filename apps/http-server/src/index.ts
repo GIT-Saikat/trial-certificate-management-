@@ -22,7 +22,7 @@ app.get("/signup",async (req,res)=>{
         id:user.id
     })
 
-    res.send("JAJAJAJ");
+    // res.send("JAJAJAJ");
 })
 
 app.listen(3000);
