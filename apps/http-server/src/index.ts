@@ -25,4 +25,4 @@ app.get("/signup",async (req,res)=>{
     // res.send("JAJAJAJ");
 })
 
-app.listen(3005);
+app.listen(3002);
